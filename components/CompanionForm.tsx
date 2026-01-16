@@ -216,8 +216,8 @@ const CompanionForm = () => {
                                     placeholder="15"
                                     {...field}
                                     className="input"
-                                    min={10}
-                                    max={50}
+                                    min={1}
+                                    max={15}
                                 />
                             </FormControl>
                             <FormMessage />
